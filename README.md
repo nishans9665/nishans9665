@@ -106,6 +106,18 @@
   </a>
 </p>
 
+---
+
+## 🏆 GitHub Achievements & Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nishans9665&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishans9665&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nishans9665&theme=radical&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishans9665&layout=compact&theme=radical" alt="Top Languages" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=nishans9665&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
